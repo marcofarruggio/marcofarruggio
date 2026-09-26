@@ -1,16 +1,19 @@
-## Hi there 👋
+# Marco Farruggio
 
-<!--
-**marcofarruggio/marcofarruggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst based in Catania, Italy.
 
-Here are some ideas to get you started:
+At work I handle reporting and monitoring with **SQL**, **Metabase** and **Excel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside work I'm a surf instructor and board member of a surf school association, for which I designed and built [serfatari.com](https://serfatari.com): a web management system for members, memberships, enrolments and online payments, developed with AI tools (Claude Code).
+
+## Tools
+
+SQL · Metabase · Excel / VBA · Python · Tableau · BigQuery · Claude
+
+## Background
+
+Bachelor's degree in Naval Engineering (University of Genoa) · Law studies (University of Catania) · Data Analytics course (Boolean, 2024)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/marco-farruggio)
